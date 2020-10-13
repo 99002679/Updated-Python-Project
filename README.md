@@ -1,1 +1,1 @@
-# Updated-Python-Project
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ec2afbaf37a24835a3fe255557a9cd18)](https://www.codacy.com/gh/99002679/Python-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002679/Python-Project&amp;utm_campaign=Badge_Grade)
